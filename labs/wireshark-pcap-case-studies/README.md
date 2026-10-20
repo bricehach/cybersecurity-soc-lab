@@ -12,12 +12,12 @@ Ce laboratoire regroupe cinq exercices fictifs fournis dans le cadre d’un cour
 
 ## Fichiers
 
-Les archives prévues pour cette analyse sont :
+Les archives sont disponibles dans la [release Wireshark-pcaps-v1.0.0](https://github.com/bricehach/cybersecurity-soc-lab/releases/tag/wireshark-pcaps-v1.0.0) :
 
 - `Wireshark_GitHub_package.zip` — rapport PDF/DOCX et preuves visuelles classées par PCAP.
 - `Wireshark_PCAPs_1_to_5.zip` — les cinq captures originales et leurs empreintes SHA-256.
 
-Les fichiers binaires seront disponibles dans la section [Releases](https://github.com/bricehach/cybersecurity-soc-lab/releases) du dépôt dès leur ajout à une publication. Les noms des PCAP doivent être conservés pour reproduire les filtres, numéros de trames et numéros de flux du rapport.
+Les noms des PCAP doivent être conservés pour reproduire les filtres, numéros de trames et numéros de flux du rapport.
 
 ## Reproductibilité et intégrité
 
