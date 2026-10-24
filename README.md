@@ -48,6 +48,7 @@ L'objectif n'est pas de présenter une liste d'outils, mais de comprendre **ce q
 | Détection | Sigma | Formaliser des règles portables |
 | Protection endpoint | Microsoft Defender | Observer et contextualiser la sécurité poste |
 | Réseau | Wireshark, Nmap | Ajouter le contexte réseau |
+| OSINT et recherche ouverte | Google dorking, moteurs, vérification des sources | Découvrir et documenter des sources publiques avec méthode |
 | Investigation | Hayabusa, Chainsaw, Velociraptor | Approfondir une alerte lorsque nécessaire |
 
 ---
@@ -66,10 +67,17 @@ cybersecurity-soc-lab/
 ├── detection-use-cases/
 ├── correlation-triage/
 ├── incident-workflow/
+├── osint/
 └── labs/
 ```
 
 Chaque partie accueillera progressivement des notes, configurations, exercices et retours d'expérience issus de mes laboratoires.
+
+## Recherche OSINT
+
+Le dépôt comprend aussi un cours avancé sur la recherche avec Google et les méthodes OSINT. Il présente les opérateurs, leurs limites, la vérification des sources, les usages au-delà de la cybersécurité et des ateliers corrigés.
+
+[Consulter le cours Google dorking et recherche OSINT](osint/Cours_Google_Dorking_OSINT.md)
 
 ---
 
